@@ -1,3 +1,5 @@
+My name is Robera Geleta and I just modified the first line of this file.  
+Say what ? 
 [![Build Status](https://travis-ci.org/magit/magit.png?branch=maint,master,next)](https://travis-ci.org/magit/magit)
 
 It's Magit!  An Emacs mode for Git
